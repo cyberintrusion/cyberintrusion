@@ -1,5 +1,6 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+### 💻 About me:
+      - Coming soon...
+
+---
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ChenZen)](https://leetcode.com/ChenZen)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberintrusion)](https://github.com/anuraghazra/github-readme-stats)
