@@ -1,1 +1,1 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/ChenZen)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ChenZen)](https://leetcode.com/ChenZen)
